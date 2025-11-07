@@ -1,0 +1,8 @@
+Remove AI features from the Discord ticket management bot
+
+Remove the AI system integration and related functionalities from the Discord bot, including disabling the AISystem import and initialization in src/index.js and updating bot-heartbeat.json.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 7e3c3d95-4f98-4976-994f-c643f2323ba6
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: dd001753-4206-47d5-8724-510156f89b7e
